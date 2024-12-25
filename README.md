@@ -6,7 +6,7 @@
 ## Содержание
 
 1. [Опрос](https://forms.gle/DjrqDoFjbGJeLLtB9)
-2. [Результаты опроса (актуально на 2024-03-15)](https://alexanderosharov.github.io/HM-VotingResults/)
+2. [Результаты опроса (актуально на 2024-12-25)](https://alexanderosharov.github.io/HM-VotingResults/)
 3. [Тезисы](https://github.com/AlexanderOsharov/HM-Abstracts)
 4. [Документация](https://github.com/AlexanderOsharov/HM-documentation)
 5. [Техническое задание](https://github.com/AlexanderOsharov/HM-TS/)
